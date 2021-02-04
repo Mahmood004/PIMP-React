@@ -1,0 +1,11 @@
+.stats_title {
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.85);
+    margin: 15px auto;
+    font-weight: 500;
+}
+
+.stats_box {
+    background: #ECECEC;
+    padding: 30px;
+}
